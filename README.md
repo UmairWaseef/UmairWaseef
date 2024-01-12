@@ -35,7 +35,7 @@
 <br clear="both">
 
 <p align="left">
-### Hi there, I'm Mohamed Umair! 👋<br><br>- 🎓 I'm a BSc Hons IT student at the University of Moratuwa.<br>- 💻 I'm actively seeking an internship in software engineering.<br>- 🔭 Currently, I'm working on Muzfi ecommerce app as a backend developer.<br>- 📚 I'm learning and exploring various aspects of software development.<br><br>Let's connect and collaborate on exciting projects! 😊</p>
+ Hi there, I'm Mohamed Umair! 👋<br><br>- 🎓 I'm a BSc Hons IT student at the University of Moratuwa.<br>- 💻 I'm actively seeking an internship in software engineering.<br>- 🔭 Currently, I'm working on Muzfi ecommerce app as a backend developer.<br>- 📚 I'm learning and exploring various aspects of software development.<br><br>Let's connect and collaborate on exciting projects! 😊</p>
 
 ###
 
